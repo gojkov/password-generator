@@ -1,7 +1,6 @@
 h1 {
-    font-family: 'Faster One', cursive;
     padding-top: 2rem;
 }
-button, label, .checkbox {
-    font-family: 'Cinzel', serif;
+h1, button, label, .checkbox {
+    font-family: 'Alegreya Sans SC', sans-serif;
 }
